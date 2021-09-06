@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0% ;
+}
+#toolbar{
+    height: 40px;
+    width: 100%;
+    background-color: #da5454;
+}
+.fixedwidth{
+    margin: 0 auto;
+    width: 1248px;
+    background-color: chartreuse;
+}
+.logodiv{
+    height: 33px;
+    padding-top: 7px;
+    float: left;
+    background-color: coral;
+    border-right: solid 2px blue;
+}
